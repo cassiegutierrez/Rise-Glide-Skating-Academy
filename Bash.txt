@@ -1,0 +1,5 @@
+/index.html        → public homepage
+/login.html        → login page
+/dashboard.html    → protected page (members only)
+/style.css
+/app.js
